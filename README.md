@@ -5,8 +5,7 @@
 >Trabalho na maioria em repositorios privados e em outros servidores
 
 <a href="https://github.com/LFC94">
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LFC94&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LFC94&layout=compact&langs_count=8&theme=tokyonight&locale=pt-br"/>
+<img src="https://ghstats.dev/api/langs?username=LFC94&theme=tokyonight&border_radius=5&max_langs=10" alt="Top Languages" />
 </a>
 
 ##
